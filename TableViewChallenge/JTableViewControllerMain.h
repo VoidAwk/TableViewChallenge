@@ -1,5 +1,5 @@
 //
-//  JViewController.h
+//  JTableViewControllerMain.h
 //  TableViewChallenge
 //
 //  Created by Joe Ilagan on 4/28/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface JViewController : UIViewController
+@interface JTableViewControllerMain : UITableViewController
 
 @end
